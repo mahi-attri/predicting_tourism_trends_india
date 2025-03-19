@@ -1,0 +1,409 @@
+State,Month,Year,FTAs,DTAs,Events,Weather,Traffic_Level
+Andhra Pradesh,January,2024,39166,42714,None,Cool,Medium
+Andhra Pradesh,February,2024,22659,73890,None,Cool,Medium
+Andhra Pradesh,March,2024,8936,78361,None,Warm,Medium
+Andhra Pradesh,April,2024,40940,132002,None,Warm,High
+Andhra Pradesh,May,2024,40414,64266,None,Warm,High
+Andhra Pradesh,June,2024,49515,89665,None,Rainy,High
+Andhra Pradesh,July,2024,33402,122205,None,Rainy,High
+Andhra Pradesh,August,2024,31650,69098,None,Rainy,High
+Andhra Pradesh,September,2024,36070,37537,None,Rainy,Medium
+Andhra Pradesh,October,2024,22472,133892,None,Pleasant,High
+Andhra Pradesh,November,2024,37951,33175,None,Pleasant,Medium
+Andhra Pradesh,December,2024,34154,70718,None,Cool,High
+Arunachal Pradesh,January,2024,47706,58366,None,Cool,High
+Arunachal Pradesh,February,2024,16369,28200,None,Cool,Low
+Arunachal Pradesh,March,2024,37778,140271,None,Warm,High
+Arunachal Pradesh,April,2024,29725,96600,None,Warm,High
+Arunachal Pradesh,May,2024,47989,114609,None,Warm,High
+Arunachal Pradesh,June,2024,9284,42894,None,Rainy,Medium
+Arunachal Pradesh,July,2024,37249,44444,None,Rainy,Medium
+Arunachal Pradesh,August,2024,25915,49339,None,Rainy,Medium
+Arunachal Pradesh,September,2024,32833,52032,None,Rainy,Medium
+Arunachal Pradesh,October,2024,3789,70844,None,Pleasant,Medium
+Arunachal Pradesh,November,2024,5052,67018,None,Pleasant,Medium
+Arunachal Pradesh,December,2024,39486,141312,None,Cool,High
+Assam,January,2024,49995,74759,Bihu,Cool,High
+Assam,February,2024,27658,124618,Bihu,Cool,High
+Assam,March,2024,19217,90879,Bihu,Warm,High
+Assam,April,2024,20786,129559,Bihu,Warm,High
+Assam,May,2024,26266,95202,Bihu,Warm,High
+Assam,June,2024,4078,148685,Bihu,Rainy,High
+Assam,July,2024,27873,71085,Bihu,Rainy,Medium
+Assam,August,2024,9298,30640,Bihu,Rainy,Low
+Assam,September,2024,35480,130717,Bihu,Rainy,High
+Assam,October,2024,41091,81947,Bihu,Pleasant,High
+Assam,November,2024,48098,148845,Bihu,Pleasant,High
+Assam,December,2024,11919,52995,Bihu,Cool,Medium
+Bihar,January,2024,42925,138520,None,Cool,High
+Bihar,February,2024,26305,81336,None,Cool,High
+Bihar,March,2024,47190,47395,None,Warm,Medium
+Bihar,April,2024,30975,101689,None,Warm,High
+Bihar,May,2024,38429,71053,None,Warm,High
+Bihar,June,2024,47870,54600,None,Rainy,High
+Bihar,July,2024,5213,69808,None,Rainy,Medium
+Bihar,August,2024,36543,131185,None,Rainy,High
+Bihar,September,2024,46783,118194,None,Rainy,High
+Bihar,October,2024,6228,51125,None,Pleasant,Medium
+Bihar,November,2024,23752,69471,None,Pleasant,Medium
+Bihar,December,2024,27422,102442,None,Cool,High
+Chhattisgarh,January,2024,15750,129625,None,Cool,High
+Chhattisgarh,February,2024,42900,132559,None,Cool,High
+Chhattisgarh,March,2024,40396,113981,None,Warm,High
+Chhattisgarh,April,2024,26758,149196,None,Warm,High
+Chhattisgarh,May,2024,38233,98154,None,Warm,High
+Chhattisgarh,June,2024,8967,135928,None,Rainy,High
+Chhattisgarh,July,2024,11551,40757,None,Rainy,Medium
+Chhattisgarh,August,2024,2381,137533,None,Rainy,High
+Chhattisgarh,September,2024,14647,149394,None,Rainy,High
+Chhattisgarh,October,2024,32276,20527,None,Pleasant,Medium
+Chhattisgarh,November,2024,37074,99581,None,Pleasant,High
+Chhattisgarh,December,2024,14803,68423,None,Cool,Medium
+Goa,January,2024,18205,106622,Carnival,Cool,High
+Goa,February,2024,37113,146649,Carnival,Cool,High
+Goa,March,2024,22271,69434,Carnival,Warm,Medium
+Goa,April,2024,34746,93771,Carnival,Warm,High
+Goa,May,2024,30292,136948,Carnival,Warm,High
+Goa,June,2024,3929,148364,Carnival,Rainy,High
+Goa,July,2024,4794,108237,Carnival,Rainy,High
+Goa,August,2024,14281,133306,Carnival,Rainy,High
+Goa,September,2024,12591,122151,Carnival,Rainy,High
+Goa,October,2024,47416,60493,Carnival,Pleasant,High
+Goa,November,2024,49221,128701,Carnival,Pleasant,High
+Goa,December,2024,36219,96156,Carnival,Cool,High
+Gujarat,January,2024,13652,134551,None,Cool,High
+Gujarat,February,2024,41560,134496,None,Cool,High
+Gujarat,March,2024,8267,54749,None,Warm,Medium
+Gujarat,April,2024,48947,143825,None,Warm,High
+Gujarat,May,2024,3425,114748,None,Warm,High
+Gujarat,June,2024,37011,80856,None,Rainy,High
+Gujarat,July,2024,11658,100524,None,Rainy,High
+Gujarat,August,2024,46951,124162,None,Rainy,High
+Gujarat,September,2024,16919,142487,None,Rainy,High
+Gujarat,October,2024,27538,86678,None,Pleasant,High
+Gujarat,November,2024,11660,88614,None,Pleasant,High
+Gujarat,December,2024,31889,127133,None,Cool,High
+Haryana,January,2024,17977,35415,None,Cool,Medium
+Haryana,February,2024,9844,116455,None,Cool,High
+Haryana,March,2024,1061,133076,None,Warm,High
+Haryana,April,2024,13853,132368,None,Warm,High
+Haryana,May,2024,9939,44126,None,Warm,Medium
+Haryana,June,2024,13747,50032,None,Rainy,Medium
+Haryana,July,2024,7403,29958,None,Rainy,Low
+Haryana,August,2024,31553,69605,None,Rainy,High
+Haryana,September,2024,18928,95734,None,Rainy,High
+Haryana,October,2024,7753,112763,None,Pleasant,High
+Haryana,November,2024,5330,39696,None,Pleasant,Low
+Haryana,December,2024,9144,146267,None,Cool,High
+Himachal Pradesh,January,2024,47260,54089,None,Cool,High
+Himachal Pradesh,February,2024,28923,86767,None,Cool,High
+Himachal Pradesh,March,2024,2175,88062,None,Warm,Medium
+Himachal Pradesh,April,2024,35476,125640,None,Warm,High
+Himachal Pradesh,May,2024,27698,63518,None,Warm,Medium
+Himachal Pradesh,June,2024,43153,131945,None,Rainy,High
+Himachal Pradesh,July,2024,4088,26392,None,Rainy,Low
+Himachal Pradesh,August,2024,46533,75442,None,Rainy,High
+Himachal Pradesh,September,2024,6166,21060,None,Rainy,Low
+Himachal Pradesh,October,2024,3301,80320,None,Pleasant,Medium
+Himachal Pradesh,November,2024,41302,44264,None,Pleasant,Medium
+Himachal Pradesh,December,2024,27543,146128,None,Cool,High
+Jharkhand,January,2024,49563,20120,None,Cool,Medium
+Jharkhand,February,2024,12430,48451,None,Cool,Medium
+Jharkhand,March,2024,4505,56194,None,Warm,Medium
+Jharkhand,April,2024,27761,122061,None,Warm,High
+Jharkhand,May,2024,15201,147787,None,Warm,High
+Jharkhand,June,2024,38827,108120,None,Rainy,High
+Jharkhand,July,2024,30494,21641,None,Rainy,Medium
+Jharkhand,August,2024,45736,87849,None,Rainy,High
+Jharkhand,September,2024,23700,140371,None,Rainy,High
+Jharkhand,October,2024,17019,28454,None,Pleasant,Low
+Jharkhand,November,2024,7807,136156,None,Pleasant,High
+Jharkhand,December,2024,28404,47430,None,Cool,Medium
+Karnataka,January,2024,44753,91067,Mysore,Cool,High
+Karnataka,February,2024,7540,73514,Mysore,Cool,Medium
+Karnataka,March,2024,30499,64067,Mysore,Warm,Medium
+Karnataka,April,2024,23800,69248,Mysore,Warm,Medium
+Karnataka,May,2024,13263,59728,Mysore,Warm,Medium
+Karnataka,June,2024,29753,108716,Mysore,Rainy,High
+Karnataka,July,2024,26546,142543,Mysore,Rainy,High
+Karnataka,August,2024,42691,91249,Mysore,Rainy,High
+Karnataka,September,2024,23017,143437,Mysore,Rainy,High
+Karnataka,October,2024,46995,56907,Mysore,Pleasant,High
+Karnataka,November,2024,1517,101518,Mysore,Pleasant,High
+Karnataka,December,2024,42578,116963,Mysore,Cool,High
+Kerala,January,2024,7204,63301,Onam,Cool,Medium
+Kerala,February,2024,29332,77136,Onam,Cool,High
+Kerala,March,2024,12570,66151,Onam,Warm,Medium
+Kerala,April,2024,10446,67342,Onam,Warm,Medium
+Kerala,May,2024,10412,101858,Onam,Warm,High
+Kerala,June,2024,39894,144392,Onam,Rainy,High
+Kerala,July,2024,31067,124436,Onam,Rainy,High
+Kerala,August,2024,14724,130393,Onam,Rainy,High
+Kerala,September,2024,37938,130545,Onam,Rainy,High
+Kerala,October,2024,3395,145855,Onam,Pleasant,High
+Kerala,November,2024,39841,66581,Onam,Pleasant,High
+Kerala,December,2024,29124,74902,Onam,Cool,High
+Madhya Pradesh,January,2024,25195,129854,None,Cool,High
+Madhya Pradesh,February,2024,8651,135975,None,Cool,High
+Madhya Pradesh,March,2024,31932,36269,None,Warm,Medium
+Madhya Pradesh,April,2024,21593,148553,None,Warm,High
+Madhya Pradesh,May,2024,28719,76109,None,Warm,High
+Madhya Pradesh,June,2024,44184,91394,None,Rainy,High
+Madhya Pradesh,July,2024,46950,86172,None,Rainy,High
+Madhya Pradesh,August,2024,41195,137168,None,Rainy,High
+Madhya Pradesh,September,2024,3110,55417,None,Rainy,Medium
+Madhya Pradesh,October,2024,11176,64523,None,Pleasant,Medium
+Madhya Pradesh,November,2024,30541,71974,None,Pleasant,High
+Madhya Pradesh,December,2024,12709,36264,None,Cool,Low
+Maharashtra,January,2024,45717,102520,Ganesh Chaturthi,Cool,High
+Maharashtra,February,2024,44995,22035,Ganesh Chaturthi,Cool,Medium
+Maharashtra,March,2024,43706,124058,Ganesh Chaturthi,Warm,High
+Maharashtra,April,2024,30278,93660,Ganesh Chaturthi,Warm,High
+Maharashtra,May,2024,36494,110416,Ganesh Chaturthi,Warm,High
+Maharashtra,June,2024,29243,114293,Ganesh Chaturthi,Rainy,High
+Maharashtra,July,2024,9739,134700,Ganesh Chaturthi,Rainy,High
+Maharashtra,August,2024,1799,120310,Ganesh Chaturthi,Rainy,High
+Maharashtra,September,2024,28507,141290,Ganesh Chaturthi,Rainy,High
+Maharashtra,October,2024,16928,72516,Ganesh Chaturthi,Pleasant,Medium
+Maharashtra,November,2024,31420,58986,Ganesh Chaturthi,Pleasant,Medium
+Maharashtra,December,2024,10242,103885,Ganesh Chaturthi,Cool,High
+Manipur,January,2024,19686,115756,None,Cool,High
+Manipur,February,2024,23104,94030,None,Cool,High
+Manipur,March,2024,5580,78393,None,Warm,Medium
+Manipur,April,2024,14368,93097,None,Warm,High
+Manipur,May,2024,13478,49097,None,Warm,Medium
+Manipur,June,2024,26682,71830,None,Rainy,Medium
+Manipur,July,2024,20341,58046,None,Rainy,Medium
+Manipur,August,2024,5244,45094,None,Rainy,Medium
+Manipur,September,2024,3965,68015,None,Rainy,Medium
+Manipur,October,2024,20131,22734,None,Pleasant,Low
+Manipur,November,2024,7125,142995,None,Pleasant,High
+Manipur,December,2024,44662,82866,None,Cool,High
+Meghalaya,January,2024,24333,147005,None,Cool,High
+Meghalaya,February,2024,22209,21786,None,Cool,Low
+Meghalaya,March,2024,16126,65721,None,Warm,Medium
+Meghalaya,April,2024,41085,139990,None,Warm,High
+Meghalaya,May,2024,14115,53540,None,Warm,Medium
+Meghalaya,June,2024,32872,23765,None,Rainy,Medium
+Meghalaya,July,2024,37017,101375,None,Rainy,High
+Meghalaya,August,2024,34285,116673,None,Rainy,High
+Meghalaya,September,2024,2413,125180,None,Rainy,High
+Meghalaya,October,2024,18169,81702,None,Pleasant,Medium
+Meghalaya,November,2024,40053,77899,None,Pleasant,High
+Meghalaya,December,2024,2792,66217,None,Cool,Medium
+Mizoram,January,2024,26326,55145,None,Cool,Medium
+Mizoram,February,2024,28280,123055,None,Cool,High
+Mizoram,March,2024,42877,20614,None,Warm,Medium
+Mizoram,April,2024,38231,124294,None,Warm,High
+Mizoram,May,2024,34712,48461,None,Warm,Medium
+Mizoram,June,2024,22635,145414,None,Rainy,High
+Mizoram,July,2024,39845,119996,None,Rainy,High
+Mizoram,August,2024,19137,99707,None,Rainy,High
+Mizoram,September,2024,1717,64593,None,Rainy,Medium
+Mizoram,October,2024,49013,124220,None,Pleasant,High
+Mizoram,November,2024,26534,103014,None,Pleasant,High
+Mizoram,December,2024,34808,74376,None,Cool,High
+Nagaland,January,2024,8364,28201,None,Cool,Low
+Nagaland,February,2024,29222,35142,None,Cool,Medium
+Nagaland,March,2024,26816,51855,None,Warm,Medium
+Nagaland,April,2024,29100,78738,None,Warm,High
+Nagaland,May,2024,30429,92674,None,Warm,High
+Nagaland,June,2024,34946,144145,None,Rainy,High
+Nagaland,July,2024,21719,142844,None,Rainy,High
+Nagaland,August,2024,14979,56437,None,Rainy,Medium
+Nagaland,September,2024,14911,31898,None,Rainy,Low
+Nagaland,October,2024,7707,147099,None,Pleasant,High
+Nagaland,November,2024,17803,86048,None,Pleasant,High
+Nagaland,December,2024,22276,49622,None,Cool,Medium
+Odisha,January,2024,49244,83154,None,Cool,High
+Odisha,February,2024,4989,30212,None,Cool,Low
+Odisha,March,2024,10706,134353,None,Warm,High
+Odisha,April,2024,6940,125698,None,Warm,High
+Odisha,May,2024,39381,71236,None,Warm,High
+Odisha,June,2024,39293,97006,None,Rainy,High
+Odisha,July,2024,32696,124782,None,Rainy,High
+Odisha,August,2024,37147,84599,None,Rainy,High
+Odisha,September,2024,36946,138597,None,Rainy,High
+Odisha,October,2024,40502,136115,None,Pleasant,High
+Odisha,November,2024,43978,25181,None,Pleasant,Medium
+Odisha,December,2024,44755,115040,None,Cool,High
+Punjab,January,2024,49156,77161,Baisakhi,Cool,High
+Punjab,February,2024,49445,142254,Baisakhi,Cool,High
+Punjab,March,2024,42569,119816,Baisakhi,Warm,High
+Punjab,April,2024,7380,148254,Baisakhi,Warm,High
+Punjab,May,2024,18722,56941,Baisakhi,Warm,Medium
+Punjab,June,2024,31331,41621,Baisakhi,Rainy,Medium
+Punjab,July,2024,47322,46579,Baisakhi,Rainy,Medium
+Punjab,August,2024,46385,48123,Baisakhi,Rainy,Medium
+Punjab,September,2024,46070,119661,Baisakhi,Rainy,High
+Punjab,October,2024,11263,88738,Baisakhi,Pleasant,High
+Punjab,November,2024,4799,137462,Baisakhi,Pleasant,High
+Punjab,December,2024,6981,109244,Baisakhi,Cool,High
+Rajasthan,January,2024,21293,122621,Desert Festival,Cool,High
+Rajasthan,February,2024,31529,131769,Desert Festival,Cool,High
+Rajasthan,March,2024,19499,32586,Desert Festival,Warm,Medium
+Rajasthan,April,2024,23955,143583,Desert Festival,Warm,High
+Rajasthan,May,2024,36204,54952,Desert Festival,Warm,Medium
+Rajasthan,June,2024,17778,54062,Desert Festival,Rainy,Medium
+Rajasthan,July,2024,13222,100370,Desert Festival,Rainy,High
+Rajasthan,August,2024,41397,101601,Desert Festival,Rainy,High
+Rajasthan,September,2024,6134,139247,Desert Festival,Rainy,High
+Rajasthan,October,2024,39171,47214,Desert Festival,Pleasant,Medium
+Rajasthan,November,2024,44643,44045,Desert Festival,Pleasant,Medium
+Rajasthan,December,2024,43705,96255,Desert Festival,Cool,High
+Sikkim,January,2024,47872,74755,None,Cool,High
+Sikkim,February,2024,37585,72492,None,Cool,High
+Sikkim,March,2024,28855,131521,None,Warm,High
+Sikkim,April,2024,8396,41443,None,Warm,Low
+Sikkim,May,2024,41352,84126,None,Warm,High
+Sikkim,June,2024,37672,23809,None,Rainy,Medium
+Sikkim,July,2024,11357,66423,None,Rainy,Medium
+Sikkim,August,2024,30077,140498,None,Rainy,High
+Sikkim,September,2024,34515,120877,None,Rainy,High
+Sikkim,October,2024,46345,45105,None,Pleasant,Medium
+Sikkim,November,2024,47650,75563,None,Pleasant,High
+Sikkim,December,2024,29244,135224,None,Cool,High
+Tamil Nadu,January,2024,10978,31686,Pongal,Cool,Low
+Tamil Nadu,February,2024,22867,47641,Pongal,Cool,Medium
+Tamil Nadu,March,2024,10476,67708,Pongal,Warm,Medium
+Tamil Nadu,April,2024,43518,107475,Pongal,Warm,High
+Tamil Nadu,May,2024,38828,85055,Pongal,Warm,High
+Tamil Nadu,June,2024,20400,69099,Pongal,Rainy,Medium
+Tamil Nadu,July,2024,12604,106299,Pongal,Rainy,High
+Tamil Nadu,August,2024,30394,113224,Pongal,Rainy,High
+Tamil Nadu,September,2024,36064,52814,Pongal,Rainy,Medium
+Tamil Nadu,October,2024,26559,54418,Pongal,Pleasant,Medium
+Tamil Nadu,November,2024,21148,113580,Pongal,Pleasant,High
+Tamil Nadu,December,2024,39493,21996,Pongal,Cool,Medium
+Telangana,January,2024,41821,96871,None,Cool,High
+Telangana,February,2024,13666,23164,None,Cool,Low
+Telangana,March,2024,26110,99862,None,Warm,High
+Telangana,April,2024,10004,24074,None,Warm,Low
+Telangana,May,2024,28697,100437,None,Warm,High
+Telangana,June,2024,4694,133766,None,Rainy,High
+Telangana,July,2024,48024,149772,None,Rainy,High
+Telangana,August,2024,32980,110317,None,Rainy,High
+Telangana,September,2024,16135,82435,None,Rainy,Medium
+Telangana,October,2024,27304,137436,None,Pleasant,High
+Telangana,November,2024,13857,27985,None,Pleasant,Low
+Telangana,December,2024,1985,128377,None,Cool,High
+Tripura,January,2024,29038,55076,None,Cool,Medium
+Tripura,February,2024,22164,119514,None,Cool,High
+Tripura,March,2024,4514,105722,None,Warm,High
+Tripura,April,2024,11883,139191,None,Warm,High
+Tripura,May,2024,17095,23328,None,Warm,Low
+Tripura,June,2024,9215,87290,None,Rainy,Medium
+Tripura,July,2024,1705,22624,None,Rainy,Low
+Tripura,August,2024,26359,116464,None,Rainy,High
+Tripura,September,2024,46685,140087,None,Rainy,High
+Tripura,October,2024,47051,45735,None,Pleasant,Medium
+Tripura,November,2024,42487,80886,None,Pleasant,High
+Tripura,December,2024,27148,52031,None,Cool,Medium
+Uttar Pradesh,January,2024,12864,81461,None,Cool,Medium
+Uttar Pradesh,February,2024,8755,38353,None,Cool,Low
+Uttar Pradesh,March,2024,10045,38481,None,Warm,Low
+Uttar Pradesh,April,2024,39455,107898,None,Warm,High
+Uttar Pradesh,May,2024,40154,36971,None,Warm,Medium
+Uttar Pradesh,June,2024,46691,61166,None,Rainy,High
+Uttar Pradesh,July,2024,44348,71035,None,Rainy,High
+Uttar Pradesh,August,2024,30900,111442,None,Rainy,High
+Uttar Pradesh,September,2024,24040,120342,None,Rainy,High
+Uttar Pradesh,October,2024,40498,149628,None,Pleasant,High
+Uttar Pradesh,November,2024,3143,117772,None,Pleasant,High
+Uttar Pradesh,December,2024,16343,82143,None,Cool,Medium
+Uttarakhand,January,2024,45454,145850,None,Cool,High
+Uttarakhand,February,2024,20352,46769,None,Cool,Medium
+Uttarakhand,March,2024,24604,43312,None,Warm,Medium
+Uttarakhand,April,2024,14164,64233,None,Warm,Medium
+Uttarakhand,May,2024,31687,125436,None,Warm,High
+Uttarakhand,June,2024,38693,46190,None,Rainy,Medium
+Uttarakhand,July,2024,7815,37471,None,Rainy,Low
+Uttarakhand,August,2024,6438,38107,None,Rainy,Low
+Uttarakhand,September,2024,34482,109499,None,Rainy,High
+Uttarakhand,October,2024,2368,22450,None,Pleasant,Low
+Uttarakhand,November,2024,20565,118890,None,Pleasant,High
+Uttarakhand,December,2024,14710,127022,None,Cool,High
+West Bengal,January,2024,25160,86612,Durga Puja,Cool,High
+West Bengal,February,2024,12628,141752,Durga Puja,Cool,High
+West Bengal,March,2024,30485,30909,Durga Puja,Warm,Medium
+West Bengal,April,2024,34721,58772,Durga Puja,Warm,Medium
+West Bengal,May,2024,19435,35859,Durga Puja,Warm,Medium
+West Bengal,June,2024,9240,36422,Durga Puja,Rainy,Low
+West Bengal,July,2024,42696,43407,Durga Puja,Rainy,Medium
+West Bengal,August,2024,15082,68970,Durga Puja,Rainy,Medium
+West Bengal,September,2024,30425,125221,Durga Puja,Rainy,High
+West Bengal,October,2024,17618,73775,Durga Puja,Pleasant,Medium
+West Bengal,November,2024,27727,22248,Durga Puja,Pleasant,Low
+West Bengal,December,2024,47304,52845,Durga Puja,Cool,High
+Andaman and Nicobar Islands,January,2024,32136,23339,None,Cool,Medium
+Andaman and Nicobar Islands,February,2024,9066,66592,None,Cool,Medium
+Andaman and Nicobar Islands,March,2024,11930,105770,None,Warm,High
+Andaman and Nicobar Islands,April,2024,30602,44963,None,Warm,Medium
+Andaman and Nicobar Islands,May,2024,11175,39408,None,Warm,Medium
+Andaman and Nicobar Islands,June,2024,8810,78318,None,Rainy,Medium
+Andaman and Nicobar Islands,July,2024,26583,143176,None,Rainy,High
+Andaman and Nicobar Islands,August,2024,34831,58578,None,Rainy,Medium
+Andaman and Nicobar Islands,September,2024,14544,61865,None,Rainy,Medium
+Andaman and Nicobar Islands,October,2024,42117,59278,None,Pleasant,High
+Andaman and Nicobar Islands,November,2024,3246,22631,None,Pleasant,Low
+Andaman and Nicobar Islands,December,2024,16088,52115,None,Cool,Medium
+Chandigarh,January,2024,19866,130872,None,Cool,High
+Chandigarh,February,2024,27871,32321,None,Cool,Medium
+Chandigarh,March,2024,27780,25727,None,Warm,Medium
+Chandigarh,April,2024,47274,126196,None,Warm,High
+Chandigarh,May,2024,4618,28631,None,Warm,Low
+Chandigarh,June,2024,15319,47869,None,Rainy,Medium
+Chandigarh,July,2024,1710,124200,None,Rainy,High
+Chandigarh,August,2024,21365,98794,None,Rainy,High
+Chandigarh,September,2024,46459,36836,None,Rainy,Medium
+Chandigarh,October,2024,16473,139242,None,Pleasant,High
+Chandigarh,November,2024,13498,123816,None,Pleasant,High
+Chandigarh,December,2024,20820,44746,None,Cool,Medium
+Dadra and Nagar Haveli and Daman and Diu,January,2024,2790,20541,None,Cool,Low
+Dadra and Nagar Haveli and Daman and Diu,February,2024,23560,50608,None,Cool,Medium
+Dadra and Nagar Haveli and Daman and Diu,March,2024,22309,87872,None,Warm,High
+Dadra and Nagar Haveli and Daman and Diu,April,2024,29467,70715,None,Warm,High
+Dadra and Nagar Haveli and Daman and Diu,May,2024,19080,27459,None,Warm,Low
+Dadra and Nagar Haveli and Daman and Diu,June,2024,41902,81169,None,Rainy,High
+Dadra and Nagar Haveli and Daman and Diu,July,2024,26011,117678,None,Rainy,High
+Dadra and Nagar Haveli and Daman and Diu,August,2024,15541,46610,None,Rainy,Medium
+Dadra and Nagar Haveli and Daman and Diu,September,2024,7811,65311,None,Rainy,Medium
+Dadra and Nagar Haveli and Daman and Diu,October,2024,42455,127988,None,Pleasant,High
+Dadra and Nagar Haveli and Daman and Diu,November,2024,47570,25093,None,Pleasant,Medium
+Dadra and Nagar Haveli and Daman and Diu,December,2024,17602,133462,None,Cool,High
+Delhi,January,2024,5011,32994,None,Cool,Low
+Delhi,February,2024,9655,132144,None,Cool,High
+Delhi,March,2024,27897,46694,None,Warm,Medium
+Delhi,April,2024,13031,87223,None,Warm,High
+Delhi,May,2024,28274,83331,None,Warm,High
+Delhi,June,2024,26957,31194,None,Rainy,Medium
+Delhi,July,2024,37944,92070,None,Rainy,High
+Delhi,August,2024,42725,70216,None,Rainy,High
+Delhi,September,2024,9194,49381,None,Rainy,Medium
+Delhi,October,2024,46660,108059,None,Pleasant,High
+Delhi,November,2024,21805,50297,None,Pleasant,Medium
+Delhi,December,2024,35169,72943,None,Cool,High
+Lakshadweep,January,2024,13843,144956,None,Cool,High
+Lakshadweep,February,2024,28317,146720,None,Cool,High
+Lakshadweep,March,2024,16267,56357,None,Warm,Medium
+Lakshadweep,April,2024,4389,144299,None,Warm,High
+Lakshadweep,May,2024,23026,141977,None,Warm,High
+Lakshadweep,June,2024,13939,83334,None,Rainy,Medium
+Lakshadweep,July,2024,31153,72096,None,Rainy,High
+Lakshadweep,August,2024,27178,92883,None,Rainy,High
+Lakshadweep,September,2024,13007,134841,None,Rainy,High
+Lakshadweep,October,2024,45324,124662,None,Pleasant,High
+Lakshadweep,November,2024,38200,49556,None,Pleasant,Medium
+Lakshadweep,December,2024,29342,78557,None,Cool,High
+Puducherry,January,2024,38954,112025,None,Cool,High
+Puducherry,February,2024,16809,95809,None,Cool,High
+Puducherry,March,2024,27892,104808,None,Warm,High
+Puducherry,April,2024,2342,93968,None,Warm,Medium
+Puducherry,May,2024,38376,99460,None,Warm,High
+Puducherry,June,2024,5980,147768,None,Rainy,High
+Puducherry,July,2024,33092,112036,None,Rainy,High
+Puducherry,August,2024,22642,111129,None,Rainy,High
+Puducherry,September,2024,2677,28546,None,Rainy,Low
+Puducherry,October,2024,22060,28141,None,Pleasant,Medium
+Puducherry,November,2024,41965,128000,None,Pleasant,High
+Puducherry,December,2024,38986,84330,None,Cool,High
